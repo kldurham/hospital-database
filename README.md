@@ -1,2 +1,2 @@
 # hospital-database
-Hospital database, including ERD, with versions written for MySQL and SQLite
+Interactive Java application.  Hospital database, including ERD, with versions written for MySQL and SQLite
